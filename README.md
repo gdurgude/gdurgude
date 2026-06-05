@@ -1,4 +1,4 @@
-[README (6).md](https://github.com/user-attachments/files/28650329/README.6.md)
+[README (7).md](https://github.com/user-attachments/files/28650418/README.7.md)
 <div align="center">
 
 # Hi there, I'm Gaurav Durgude 👋
@@ -36,7 +36,7 @@
 
 ## 💼 Experience
 
-### 🏢 Software QA Engineer — Oigetit.ai, San Mateo CA *(Aug 2025 – Nov 2025)*
+### 🏢 Software QA Engineer Intern — Oigetit.ai, San Mateo CA *(Aug 2025 – Nov 2025)*
 > AI-driven news verification platform
 
 - Designed and executed manual and automated test cases for **React/TypeScript** UI components
@@ -136,15 +136,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=gdurgude&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
 
 ---
 
