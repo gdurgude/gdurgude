@@ -14,7 +14,7 @@
 > QA Engineer and Full-Stack Developer with **4+ years** of experience — I write the features and break them on purpose. That full-cycle perspective is my edge.
 
 - 📍 San Francisco, CA
-- 🎓 MS Computer Science — SUNY Binghamton *(Dec 2025)*
+- 🎓 MSCS Graduate — SUNY Binghamton *(Dec 2025)*
 - 🔭 Building AI-powered developer tools
 - 🌱 Exploring LLM fine-tuning, RAG pipelines, agentic systems
 - 🎯 Open to **QA Engineering**, **SDET**, and **Full-Stack SWE** roles
