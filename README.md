@@ -36,7 +36,7 @@
 
 ## 💼 Experience
 
-### 🏢 Software QA Engineer — Oigetit.ai, San Mateo CA *(Aug – Nov 2025)*
+### 🏢 Software QA Engineer — Oigetit.ai, San Mateo CA *(Aug 2025 – Nov 2025)*
 > AI-driven news verification platform
 
 - Designed and executed manual and automated test cases for **React/TypeScript** UI components
