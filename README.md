@@ -1,13 +1,9 @@
-[README (4).md](https://github.com/user-attachments/files/28650166/README.4.md)
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=header&text=Gaurav%20Durgude&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=16" />
-
-</div>
-
+[README (6).md](https://github.com/user-attachments/files/28650329/README.6.md)
 <div align="center">
 
 # Hi there, I'm Gaurav Durgude 👋
+
+### QA Engineer & Full-Stack Developer
 
 </div>
 
@@ -40,7 +36,7 @@
 
 ## 💼 Experience
 
-### 🏢 Software QA Engineer — Oigetit.ai, San Mateo CA *(Aug 2025 – Nov 2025)*
+### 🏢 Software QA Engineer — Oigetit.ai, San Mateo CA *(Aug – Nov 2025)*
 > AI-driven news verification platform
 
 - Designed and executed manual and automated test cases for **React/TypeScript** UI components
@@ -160,19 +156,6 @@
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdurgude/gdurgude/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gdurgude/gdurgude/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/gdurgude/gdurgude/output/github-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
@@ -197,4 +180,3 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=80&section=footer" />
