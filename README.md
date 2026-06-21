@@ -3,7 +3,7 @@
 
 # Hi there, I'm Gaurav Durgude 👋
 
-### QA Engineer & Full-Stack Developer
+### AI Engineer & Full-Stack Developer
 
 </div>
 
