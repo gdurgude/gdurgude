@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-> QA Engineer and Full-Stack Developer with **4+ years** of experience — I write the features and break them on purpose. That full-cycle perspective is my edge.
+> AI Engineer and Full-Stack Developer with **4+ years** of experience — I write the features and break them on purpose. That full-cycle perspective is my edge.
 
 - 📍 San Francisco, CA
 - 🎓 MSCS Graduate — SUNY Binghamton *(Dec 2025)*
