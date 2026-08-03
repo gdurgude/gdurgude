@@ -154,10 +154,10 @@
 
 | | |
 |:---:|:---:|
-| 📧 **Email** | [gdurgude@binghamton.edu](mailto:gdurgude@binghamton.edu) |
+| 📧 **Email** | [gauravdurgude9@gmail.com](mailto:gauravdurgude9@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/gaurav-durgude-b31198265](http://linkedin.com/in/gaurav-durgude-b31198265) |
 | 🐙 **GitHub** | [github.com/gdurgude](https://github.com/gdurgude) |
-| 🟢 **Status** | Actively looking for QA · SDET · Full-Stack SWE roles |
+| 🟢 **Status** | Actively looking for · SDET · Full-Stack SWE roles |
 
 </div>
 
