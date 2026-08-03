@@ -11,13 +11,13 @@
 
 ## 🧑‍💻 About Me
 
-> AI Engineer and Full-Stack Developer with **4+ years** of experience — I write the features and break them on purpose. That full-cycle perspective is my edge.
+> AI Engineer and Full-Stack Developer — I write the features and break them on purpose. That full-cycle perspective is my edge.
 
 - 📍 San Francisco, CA
 - 🎓 MSCS Graduate — SUNY Binghamton *(Dec 2025)*
 - 🔭 Building AI-powered developer tools
 - 🌱 Exploring LLM fine-tuning, RAG pipelines, agentic systems
-- 🎯 Open to **QA Engineering**, **SDET**, and **Full-Stack SWE** roles
+- 🎯 Open to **SDET**, and **Full-Stack SWE** roles
 
 ---
 
@@ -44,13 +44,11 @@
 - Wrote **Python** scripts to automate repetitive testing tasks across the pipeline
 - Collaborated in daily stand-ups and code reviews within Agile sprint cycles
 
-### 🏢 Systems Analyst / Python-Django Developer — Elite Softwares, Pune *(Sep 2022 – Apr 2023)*
-> Full-stack platform serving 5,000+ active users
-
-- Built automated test frameworks using **Selenium** and **Cypress** across Linux and Windows
-- Improved database query performance by **35%** through PostgreSQL/MongoDB schema optimization
-- Integrated REST API test coverage into front-end workflows
-- Created test plans, root cause analyses, and cross-module integration tests
+### 🏢 Full-Stack Engineer— Elite Softwares, Pune *(Aug 2021 – Apr 2023)*
+•  Designed and developed RESTful API backend services in Python and Node.js handling 50K+ daily requests, applying  computer science fundamentals for optimal architecture and performance, with robust error handling, data validation,  and reusable component architecture.  
+•  Maintained and enhanced existing codebase by investigating problem areas in legacy Python and JavaScript systems,  debugging complex issues with minimal documentation using systematic log analysis and code tracing.  
+•  Wrote optimized SQL queries against PostgreSQL and SQLite for data extraction, transformation, aggregation, and  reporting, applying deep understanding of RDBMS systems and relational data modeling in production environments.  
+•  Optimized CI/CD pipelines using GitHub Actions and Docker to improve deployment frequency and reliability across  development and production environments. 
 
 ---
 
