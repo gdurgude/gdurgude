@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="104" viewBox="0 0 320 104" role="img" aria-label="Email gauravdurgude9@gmail.com">
-<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#141A2E"/><stop offset="1" stop-color="#0B0F1C"/></linearGradient></defs>
-<rect x="1" y="1" width="318" height="102" rx="16" fill="url(#g)" stroke="#262E4D"/>
-<rect x="16" y="17" width="52" height="52" rx="14" fill="#FB923C" fill-opacity=".12" stroke="#FB923C" stroke-opacity=".55"/>
-<text x="42" y="52" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="20" font-weight="700" fill="#FB923C">@</text>
-<text x="84" y="39" font-family="Georgia,serif" font-size="17" fill="#F8FAFC">Email</text>
-<text x="84" y="62" font-family="-apple-system,Segoe UI,Arial" font-size="10.5" fill="#94A3B8">gauravdurgude9@gmail.com</text>
-<text x="84" y="82" font-family="-apple-system,Segoe UI,Arial" font-size="9.5" fill="#FB923C">OPEN ↗</text>
-</svg>
