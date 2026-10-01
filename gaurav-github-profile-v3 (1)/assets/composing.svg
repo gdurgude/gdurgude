@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410">
+<defs>
+<linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#08111b"/><stop offset="1" stop-color="#0b1420"/></linearGradient>
+<linearGradient id="warm" x1="0" x2="1"><stop offset="0" stop-color="#f3a64a"/><stop offset="1" stop-color="#4ba3ff"/></linearGradient>
+
+</defs>
+<rect width="1200" height="410" rx="28" fill="url(#bg)"/>
+
+<circle cx="58" cy="54" r="28" fill="#0d1723" stroke="#f3a64a" stroke-width="2"/>
+<text x="58" y="63" text-anchor="middle" fill="#f3a64a" font-size="28" font-family="Segoe UI Symbol,Arial">◈</text>
+<text x="104" y="52" fill="#eef4fb" font-size="34" font-weight="700" font-family="Segoe UI,Arial">Currently Composing</text>
+<text x="104" y="79" fill="#4ba3ff" font-size="13" letter-spacing="2" font-family="Segoe UI,Arial">IDEAS TODAY. IMPACT TOMORROW.</text>
+
+<rect x="35" y="110" width="550" height="125" rx="18" fill="#0d1723" stroke="#26384a" stroke-width="2"/>
+<rect x="53" y="130" width="62" height="62" rx="14" fill="#101c2a" stroke="#f3a64a" stroke-width="2"/>
+<text x="84" y="171" text-anchor="middle" fill="#f3a64a" font-size="30" font-family="Segoe UI Symbol,Arial">◉</text>
+<text x="135" y="150" fill="#eef4fb" font-size="24" font-weight="700" font-family="Segoe UI,Arial">AI Agents</text>
+<text x="135" y="180" fill="#9bb0c3" font-size="16" font-family="Segoe UI,Arial">Building autonomous, useful agents</text>
+<rect x="135" y="199" width="360" height="11" rx="5" fill="#1d2a3a"/>
+<rect x="135" y="199" width="324" height="11" rx="5" fill="#f3a64a"/>
+<text x="515" y="210" fill="#9bb0c3" font-size="14" font-family="Segoe UI,Arial">90%</text>
+<rect x="615" y="110" width="550" height="125" rx="18" fill="#0d1723" stroke="#26384a" stroke-width="2"/>
+<rect x="633" y="130" width="62" height="62" rx="14" fill="#101c2a" stroke="#4ba3ff" stroke-width="2"/>
+<text x="664" y="171" text-anchor="middle" fill="#4ba3ff" font-size="30" font-family="Segoe UI Symbol,Arial">●</text>
+<text x="715" y="150" fill="#eef4fb" font-size="24" font-weight="700" font-family="Segoe UI,Arial">Voice AI</text>
+<text x="715" y="180" fill="#9bb0c3" font-size="16" font-family="Segoe UI,Arial">Conversational systems that feel human</text>
+<rect x="715" y="199" width="360" height="11" rx="5" fill="#1d2a3a"/>
+<rect x="715" y="199" width="306" height="11" rx="5" fill="#4ba3ff"/>
+<text x="1095" y="210" fill="#9bb0c3" font-size="14" font-family="Segoe UI,Arial">85%</text>
+<rect x="35" y="255" width="550" height="125" rx="18" fill="#0d1723" stroke="#26384a" stroke-width="2"/>
+<rect x="53" y="275" width="62" height="62" rx="14" fill="#101c2a" stroke="#a970ff" stroke-width="2"/>
+<text x="84" y="316" text-anchor="middle" fill="#a970ff" font-size="30" font-family="Segoe UI Symbol,Arial">◆</text>
+<text x="135" y="295" fill="#eef4fb" font-size="24" font-weight="700" font-family="Segoe UI,Arial">Backend Systems</text>
+<text x="135" y="325" fill="#9bb0c3" font-size="16" font-family="Segoe UI,Arial">Scalable, reliable, production-ready systems</text>
+<rect x="135" y="344" width="360" height="11" rx="5" fill="#1d2a3a"/>
+<rect x="135" y="344" width="288" height="11" rx="5" fill="#a970ff"/>
+<text x="515" y="355" fill="#9bb0c3" font-size="14" font-family="Segoe UI,Arial">80%</text>
+<rect x="615" y="255" width="550" height="125" rx="18" fill="#0d1723" stroke="#26384a" stroke-width="2"/>
+<rect x="633" y="275" width="62" height="62" rx="14" fill="#101c2a" stroke="#ff68b4" stroke-width="2"/>
+<text x="664" y="316" text-anchor="middle" fill="#ff68b4" font-size="30" font-family="Segoe UI Symbol,Arial">♪</text>
+<text x="715" y="295" fill="#eef4fb" font-size="24" font-weight="700" font-family="Segoe UI,Arial">Piano</text>
+<text x="715" y="325" fill="#9bb0c3" font-size="16" font-family="Segoe UI,Arial">Exploring, learning, and creating</text>
+<rect x="715" y="344" width="360" height="11" rx="5" fill="#1d2a3a"/>
+<rect x="715" y="344" width="342" height="11" rx="5" fill="#ff68b4"/>
+<text x="1095" y="355" fill="#9bb0c3" font-size="14" font-family="Segoe UI,Arial">95%</text>
+</svg>

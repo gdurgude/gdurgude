@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="490" viewBox="0 0 1200 490">
+<defs>
+<linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#08111b"/><stop offset="1" stop-color="#0b1420"/></linearGradient>
+<linearGradient id="warm" x1="0" x2="1"><stop offset="0" stop-color="#f3a64a"/><stop offset="1" stop-color="#4ba3ff"/></linearGradient>
+
+</defs>
+<rect width="1200" height="490" rx="28" fill="url(#bg)"/>
+
+<circle cx="58" cy="54" r="28" fill="#0d1723" stroke="#f3a64a" stroke-width="2"/>
+<text x="58" y="63" text-anchor="middle" fill="#f3a64a" font-size="28" font-family="Segoe UI Symbol,Arial">⌘</text>
+<text x="104" y="52" fill="#eef4fb" font-size="34" font-weight="700" font-family="Segoe UI,Arial">Experience</text>
+<text x="104" y="79" fill="#4ba3ff" font-size="13" letter-spacing="2" font-family="Segoe UI,Arial">SYSTEMS, PRODUCT, AND PRODUCTION WORK.</text>
+
+<line x1="90" y1="115" x2="90" y2="215" stroke="#26384a" stroke-width="4"/>
+<circle cx="90" cy="115" r="10" fill="#4ba3ff"/>
+<rect x="125" y="87" width="1025" height="100" rx="16" fill="#0d1723" stroke="#26384a" stroke-width="2"/>
+<text x="155" y="120" fill="#eef4fb" font-size="22" font-weight="700" font-family="Segoe UI,Arial">Research Software Engineer</text>
+<text x="155" y="149" fill="#4ba3ff" font-size="17" font-family="Segoe UI,Arial">Binghamton University</text>
+<text x="1020" y="120" fill="#9bb0c3" font-size="16" text-anchor="end" font-family="Segoe UI,Arial">2026 — Present</text>
+<text x="155" y="177" fill="#9bb0c3" font-size="15" font-family="Segoe UI,Arial">Python · TypeScript · Production debugging · Architecture</text>
+<line x1="90" y1="240" x2="90" y2="340" stroke="#26384a" stroke-width="4"/>
+<circle cx="90" cy="240" r="10" fill="#f3a64a"/>
+<rect x="125" y="212" width="1025" height="100" rx="16" fill="#0d1723" stroke="#26384a" stroke-width="2"/>
+<text x="155" y="245" fill="#eef4fb" font-size="22" font-weight="700" font-family="Segoe UI,Arial">Full-Stack Engineer</text>
+<text x="155" y="274" fill="#f3a64a" font-size="17" font-family="Segoe UI,Arial">Elite Softwares</text>
+<text x="1020" y="245" fill="#9bb0c3" font-size="16" text-anchor="end" font-family="Segoe UI,Arial">2021 — 2023</text>
+<text x="155" y="302" fill="#9bb0c3" font-size="15" font-family="Segoe UI,Arial">REST APIs · Node.js · SQL · Performance</text>
+<line x1="90" y1="365" x2="90" y2="465" stroke="#26384a" stroke-width="4"/>
+<circle cx="90" cy="365" r="10" fill="#a970ff"/>
+<rect x="125" y="337" width="1025" height="100" rx="16" fill="#0d1723" stroke="#26384a" stroke-width="2"/>
+<text x="155" y="370" fill="#eef4fb" font-size="22" font-weight="700" font-family="Segoe UI,Arial">Software QA Engineer Intern</text>
+<text x="155" y="399" fill="#a970ff" font-size="17" font-family="Segoe UI,Arial">Oigetit.ai</text>
+<text x="1020" y="370" fill="#9bb0c3" font-size="16" text-anchor="end" font-family="Segoe UI,Arial">2025</text>
+<text x="155" y="427" fill="#9bb0c3" font-size="15" font-family="Segoe UI,Arial">API testing · E2E validation · Release quality</text>
+</svg>

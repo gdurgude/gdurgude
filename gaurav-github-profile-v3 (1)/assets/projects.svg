@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
+<defs>
+<linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#08111b"/><stop offset="1" stop-color="#0b1420"/></linearGradient>
+<linearGradient id="warm" x1="0" x2="1"><stop offset="0" stop-color="#f3a64a"/><stop offset="1" stop-color="#4ba3ff"/></linearGradient>
+
+</defs>
+<rect width="1200" height="500" rx="28" fill="url(#bg)"/>
+
+<circle cx="58" cy="54" r="28" fill="#0d1723" stroke="#f3a64a" stroke-width="2"/>
+<text x="58" y="63" text-anchor="middle" fill="#f3a64a" font-size="28" font-family="Segoe UI Symbol,Arial">♫</text>
+<text x="104" y="52" fill="#eef4fb" font-size="34" font-weight="700" font-family="Segoe UI,Arial">Featured Tracks</text>
+<text x="104" y="79" fill="#4ba3ff" font-size="13" letter-spacing="2" font-family="Segoe UI,Arial">A FEW THINGS I&#x27;VE BUILT RECENTLY.</text>
+
+<rect x="35" y="110" width="550" height="165" rx="18" fill="#0d1723" stroke="#26384a" stroke-width="2"/>
+<rect x="53" y="128" width="104" height="104" rx="14" fill="#102235" stroke="#4ba3ff" stroke-width="2"/>
+<circle cx="105" cy="180" r="29" fill="#4ba3ff" opacity=".18"/>
+<text x="105" y="190" text-anchor="middle" fill="#4ba3ff" font-size="34" font-family="Segoe UI Symbol,Arial">♪</text>
+<text x="180" y="146" fill="#4ba3ff" font-size="17" font-family="Segoe UI,Arial">01</text>
+<text x="225" y="146" fill="#eef4fb" font-size="24" font-weight="700" font-family="Segoe UI,Arial">Lull</text>
+<text x="180" y="182" fill="#4ba3ff" font-size="17" font-family="Segoe UI,Arial">Mood-aware AI voice agent</text>
+<text x="180" y="214" fill="#9bb0c3" font-size="15" font-family="Segoe UI,Arial">Built for real-world reliability and useful outcomes.</text>
+<text x="180" y="247" fill="#9bb0c3" font-size="14" font-family="Segoe UI,Arial">Voice AI · LLM · Real-time</text>
+<text x="550" y="198" fill="#4ba3ff" font-size="26">›</text>
+<rect x="615" y="110" width="550" height="165" rx="18" fill="#0d1723" stroke="#26384a" stroke-width="2"/>
+<rect x="633" y="128" width="104" height="104" rx="14" fill="#102235" stroke="#f3a64a" stroke-width="2"/>
+<circle cx="685" cy="180" r="29" fill="#f3a64a" opacity=".18"/>
+<text x="685" y="190" text-anchor="middle" fill="#f3a64a" font-size="34" font-family="Segoe UI Symbol,Arial">♪</text>
+<text x="760" y="146" fill="#4ba3ff" font-size="17" font-family="Segoe UI,Arial">02</text>
+<text x="805" y="146" fill="#eef4fb" font-size="24" font-weight="700" font-family="Segoe UI,Arial">ContentPlus</text>
+<text x="760" y="182" fill="#f3a64a" font-size="17" font-family="Segoe UI,Arial">AI classification pipeline</text>
+<text x="760" y="214" fill="#9bb0c3" font-size="15" font-family="Segoe UI,Arial">Built for real-world reliability and useful outcomes.</text>
+<text x="760" y="247" fill="#9bb0c3" font-size="14" font-family="Segoe UI,Arial">NLP · APIs · Automation</text>
+<text x="1130" y="198" fill="#f3a64a" font-size="26">›</text>
+<rect x="35" y="300" width="550" height="165" rx="18" fill="#0d1723" stroke="#26384a" stroke-width="2"/>
+<rect x="53" y="318" width="104" height="104" rx="14" fill="#102235" stroke="#a970ff" stroke-width="2"/>
+<circle cx="105" cy="370" r="29" fill="#a970ff" opacity=".18"/>
+<text x="105" y="380" text-anchor="middle" fill="#a970ff" font-size="34" font-family="Segoe UI Symbol,Arial">♪</text>
+<text x="180" y="336" fill="#4ba3ff" font-size="17" font-family="Segoe UI,Arial">03</text>
+<text x="225" y="336" fill="#eef4fb" font-size="24" font-weight="700" font-family="Segoe UI,Arial">ShipGuard</text>
+<text x="180" y="372" fill="#a970ff" font-size="17" font-family="Segoe UI,Arial">Multi-agent shipping risk monitor</text>
+<text x="180" y="404" fill="#9bb0c3" font-size="15" font-family="Segoe UI,Arial">Built for real-world reliability and useful outcomes.</text>
+<text x="180" y="437" fill="#9bb0c3" font-size="14" font-family="Segoe UI,Arial">AI Agents · Data · Docker</text>
+<text x="550" y="388" fill="#a970ff" font-size="26">›</text>
+<rect x="615" y="300" width="550" height="165" rx="18" fill="#0d1723" stroke="#26384a" stroke-width="2"/>
+<rect x="633" y="318" width="104" height="104" rx="14" fill="#102235" stroke="#53d18c" stroke-width="2"/>
+<circle cx="685" cy="370" r="29" fill="#53d18c" opacity=".18"/>
+<text x="685" y="380" text-anchor="middle" fill="#53d18c" font-size="34" font-family="Segoe UI Symbol,Arial">♪</text>
+<text x="760" y="336" fill="#4ba3ff" font-size="17" font-family="Segoe UI,Arial">04</text>
+<text x="805" y="336" fill="#eef4fb" font-size="24" font-weight="700" font-family="Segoe UI,Arial">AI Voice Bot</text>
+<text x="760" y="372" fill="#53d18c" font-size="17" font-family="Segoe UI,Arial">Real-time phone intelligence</text>
+<text x="760" y="404" fill="#9bb0c3" font-size="15" font-family="Segoe UI,Arial">Built for real-world reliability and useful outcomes.</text>
+<text x="760" y="437" fill="#9bb0c3" font-size="14" font-family="Segoe UI,Arial">Twilio · Claude · Flask</text>
+<text x="1130" y="388" fill="#53d18c" font-size="26">›</text>
+</svg>

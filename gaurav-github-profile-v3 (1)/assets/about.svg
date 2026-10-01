@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270">
+<defs>
+<linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#08111b"/><stop offset="1" stop-color="#0b1420"/></linearGradient>
+<linearGradient id="warm" x1="0" x2="1"><stop offset="0" stop-color="#f3a64a"/><stop offset="1" stop-color="#4ba3ff"/></linearGradient>
+
+</defs>
+<rect width="1200" height="270" rx="28" fill="url(#bg)"/>
+
+<circle cx="58" cy="60" r="28" fill="#0d1723" stroke="#f3a64a" stroke-width="2"/>
+<text x="58" y="69" text-anchor="middle" fill="#f3a64a" font-size="28" font-family="Segoe UI Symbol,Arial">♩</text>
+<text x="104" y="58" fill="#eef4fb" font-size="34" font-weight="700" font-family="Segoe UI,Arial">Hi, I&#x27;m Gaurav —</text>
+<text x="104" y="85" fill="#4ba3ff" font-size="13" letter-spacing="2" font-family="Segoe UI,Arial">AI ENGINEER · FULL-STACK BUILDER · PIANIST</text>
+
+<text x="105" y="130" fill="#eef4fb" font-size="23" font-family="Segoe UI,Arial">I build intelligent software, full-stack systems, and AI experiences.</text>
+<text x="105" y="166" fill="#eef4fb" font-size="23" font-family="Segoe UI,Arial">I also play piano by ear — same patterns, different instruments.</text>
+<text x="105" y="215" fill="#f3a64a" font-size="28" font-style="italic" font-family="Georgia,serif">Code has rhythm too.</text>
+<path d="M800 80 C890 30, 980 180, 1110 78" fill="none" stroke="#4ba3ff" stroke-width="4" opacity=".8"/>
+<path d="M805 98 C900 48, 990 198, 1110 96" fill="none" stroke="#f3a64a" stroke-width="4" opacity=".75"/>
+<text x="930" y="150" fill="#4ba3ff" font-size="48">♪</text><text x="1020" y="98" fill="#f3a64a" font-size="56">♫</text>
+
+</svg>
