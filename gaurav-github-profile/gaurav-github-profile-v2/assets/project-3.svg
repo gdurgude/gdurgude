@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="220" viewBox="0 0 920 220">
+<defs>
+<linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#111827"/></linearGradient>
+<linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#a371f7"/><stop offset="1" stop-color="#f0b35a"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="918" height="218" rx="20" fill="url(#bg)" stroke="#30363d" stroke-width="2"/>
+<rect x="0" y="0" width="7" height="220" rx="4" fill="url(#accent)"/>
+<circle cx="855" cy="58" r="27" fill="#161b22" stroke="#a371f7" stroke-width="2"/>
+<text x="855" y="66" text-anchor="middle" fill="#a371f7" font-size="25" font-family="Segoe UI Symbol, Segoe UI, Arial">↗</text>
+<text x="42" y="48" fill="#f0f6fc" font-weight="700" font-size="28" font-family="Segoe UI, Arial, sans-serif">03 · ShipGuard</text>
+<text x="42" y="80" fill="#a371f7" font-size="17" font-family="Segoe UI, Arial, sans-serif">Multi-agent shipping risk monitor</text>
+<text x="42" y="112" fill="#c9d1d9" font-size="19" font-family="Segoe UI, Arial, sans-serif">Coordinates specialized agents to analyze operational shipping risk.</text><text x="42" y="142" fill="#c9d1d9" font-size="19" font-family="Segoe UI, Arial, sans-serif">Designed for modular workflows, external APIs and containerized execution.</text>
+<text x="42" y="196" fill="#8b949e" font-size="15" font-family="Segoe UI, Arial, sans-serif">AI Agents · Python · APIs · Docker</text>
+</svg>
