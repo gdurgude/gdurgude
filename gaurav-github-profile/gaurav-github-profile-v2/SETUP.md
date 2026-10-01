@@ -1,1 +1,0 @@
-Upload README.md and the full assets/ folder to your GitHub profile repository. Replace the old README.md and old assets if GitHub asks. Keep all file names exactly the same. After committing, hard-refresh your GitHub profile page. This version uses only GitHub-safe Markdown, HTML tables, local PNG/GIF/SVG images and links; no JavaScript is required.
