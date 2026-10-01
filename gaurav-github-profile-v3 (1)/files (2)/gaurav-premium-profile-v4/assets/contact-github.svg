@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="104" viewBox="0 0 320 104" role="img" aria-label="GitHub github.com/gdurgude">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#141A2E"/><stop offset="1" stop-color="#0B0F1C"/></linearGradient></defs>
+<rect x="1" y="1" width="318" height="102" rx="16" fill="url(#g)" stroke="#262E4D"/>
+<rect x="16" y="17" width="52" height="52" rx="14" fill="#60A5FA" fill-opacity=".12" stroke="#60A5FA" stroke-opacity=".55"/>
+<text x="42" y="52" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="20" font-weight="700" fill="#60A5FA">&lt;&gt;</text>
+<text x="84" y="39" font-family="Georgia,serif" font-size="17" fill="#F8FAFC">GitHub</text>
+<text x="84" y="62" font-family="-apple-system,Segoe UI,Arial" font-size="10.5" fill="#94A3B8">github.com/gdurgude</text>
+<text x="84" y="82" font-family="-apple-system,Segoe UI,Arial" font-size="9.5" fill="#60A5FA">OPEN ↗</text>
+</svg>
