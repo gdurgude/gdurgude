@@ -1,0 +1,211 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="450" viewBox="0 0 1180 450">
+<defs>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#15112a"/></linearGradient>
+ <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="1" y="1" width="1178" height="448" rx="28" fill="url(#panel)" stroke="#334155"/>
+<text x="55" y="62" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#f8fafc">TECH STACK</text>
+<text x="55" y="90" font-family="monospace" font-size="14" fill="#94a3b8">tools I use to ship products, agents and backend systems</text>
+
+<g opacity="0" transform="translate(0 8)">
+      <rect x="55" y="115" width="206" height="62" rx="14" fill="#111827" stroke="#334155">
+        <animate attributeName="stroke" values="#334155;#38bdf8;#334155" dur="3.5s" begin="0.00s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="85" cy="146" r="18" fill="#3776AB"/>
+      <text x="85" y="151" text-anchor="middle" font-family="monospace" font-size="11" font-weight="900" fill="#fff">PY</text>
+      <text x="114" y="152" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">Python</text>
+      <animate attributeName="opacity" from="0" to="1" dur=".45s" begin="0.25s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur=".45s" begin="0.25s" fill="freeze"/>
+    </g>
+<g opacity="0" transform="translate(0 8)">
+      <rect x="279" y="115" width="206" height="62" rx="14" fill="#111827" stroke="#334155">
+        <animate attributeName="stroke" values="#334155;#38bdf8;#334155" dur="3.5s" begin="0.05s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="309" cy="146" r="18" fill="#3178C6"/>
+      <text x="309" y="151" text-anchor="middle" font-family="monospace" font-size="11" font-weight="900" fill="#fff">TS</text>
+      <text x="338" y="152" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">TypeScript</text>
+      <animate attributeName="opacity" from="0" to="1" dur=".45s" begin="0.30s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur=".45s" begin="0.30s" fill="freeze"/>
+    </g>
+<g opacity="0" transform="translate(0 8)">
+      <rect x="503" y="115" width="206" height="62" rx="14" fill="#111827" stroke="#334155">
+        <animate attributeName="stroke" values="#334155;#38bdf8;#334155" dur="3.5s" begin="0.10s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="533" cy="146" r="18" fill="#61DAFB"/>
+      <text x="533" y="151" text-anchor="middle" font-family="monospace" font-size="11" font-weight="900" fill="#fff">⚛</text>
+      <text x="562" y="152" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">React</text>
+      <animate attributeName="opacity" from="0" to="1" dur=".45s" begin="0.35s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur=".45s" begin="0.35s" fill="freeze"/>
+    </g>
+<g opacity="0" transform="translate(0 8)">
+      <rect x="727" y="115" width="206" height="62" rx="14" fill="#111827" stroke="#334155">
+        <animate attributeName="stroke" values="#334155;#38bdf8;#334155" dur="3.5s" begin="0.15s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="757" cy="146" r="18" fill="#111827"/>
+      <text x="757" y="151" text-anchor="middle" font-family="monospace" font-size="11" font-weight="900" fill="#fff">N</text>
+      <text x="786" y="152" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">Next.js</text>
+      <animate attributeName="opacity" from="0" to="1" dur=".45s" begin="0.40s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur=".45s" begin="0.40s" fill="freeze"/>
+    </g>
+<g opacity="0" transform="translate(0 8)">
+      <rect x="951" y="115" width="206" height="62" rx="14" fill="#111827" stroke="#334155">
+        <animate attributeName="stroke" values="#334155;#38bdf8;#334155" dur="3.5s" begin="0.20s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="981" cy="146" r="18" fill="#009688"/>
+      <text x="981" y="151" text-anchor="middle" font-family="monospace" font-size="11" font-weight="900" fill="#fff">⚡</text>
+      <text x="1010" y="152" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">FastAPI</text>
+      <animate attributeName="opacity" from="0" to="1" dur=".45s" begin="0.45s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur=".45s" begin="0.45s" fill="freeze"/>
+    </g>
+<g opacity="0" transform="translate(0 8)">
+      <rect x="55" y="195" width="206" height="62" rx="14" fill="#111827" stroke="#334155">
+        <animate attributeName="stroke" values="#334155;#38bdf8;#334155" dur="3.5s" begin="0.25s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="85" cy="226" r="18" fill="#0C4B33"/>
+      <text x="85" y="231" text-anchor="middle" font-family="monospace" font-size="11" font-weight="900" fill="#fff">DJ</text>
+      <text x="114" y="232" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">Django</text>
+      <animate attributeName="opacity" from="0" to="1" dur=".45s" begin="0.50s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur=".45s" begin="0.50s" fill="freeze"/>
+    </g>
+<g opacity="0" transform="translate(0 8)">
+      <rect x="279" y="195" width="206" height="62" rx="14" fill="#111827" stroke="#334155">
+        <animate attributeName="stroke" values="#334155;#38bdf8;#334155" dur="3.5s" begin="0.30s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="309" cy="226" r="18" fill="#475569"/>
+      <text x="309" y="231" text-anchor="middle" font-family="monospace" font-size="11" font-weight="900" fill="#fff">FL</text>
+      <text x="338" y="232" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">Flask</text>
+      <animate attributeName="opacity" from="0" to="1" dur=".45s" begin="0.55s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur=".45s" begin="0.55s" fill="freeze"/>
+    </g>
+<g opacity="0" transform="translate(0 8)">
+      <rect x="503" y="195" width="206" height="62" rx="14" fill="#111827" stroke="#334155">
+        <animate attributeName="stroke" values="#334155;#38bdf8;#334155" dur="3.5s" begin="0.35s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="533" cy="226" r="18" fill="#339933"/>
+      <text x="533" y="231" text-anchor="middle" font-family="monospace" font-size="11" font-weight="900" fill="#fff">JS</text>
+      <text x="562" y="232" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">Node.js</text>
+      <animate attributeName="opacity" from="0" to="1" dur=".45s" begin="0.60s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur=".45s" begin="0.60s" fill="freeze"/>
+    </g>
+<g opacity="0" transform="translate(0 8)">
+      <rect x="727" y="195" width="206" height="62" rx="14" fill="#111827" stroke="#334155">
+        <animate attributeName="stroke" values="#334155;#38bdf8;#334155" dur="3.5s" begin="0.40s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="757" cy="226" r="18" fill="#4169E1"/>
+      <text x="757" y="231" text-anchor="middle" font-family="monospace" font-size="11" font-weight="900" fill="#fff">PG</text>
+      <text x="786" y="232" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">PostgreSQL</text>
+      <animate attributeName="opacity" from="0" to="1" dur=".45s" begin="0.65s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur=".45s" begin="0.65s" fill="freeze"/>
+    </g>
+<g opacity="0" transform="translate(0 8)">
+      <rect x="951" y="195" width="206" height="62" rx="14" fill="#111827" stroke="#334155">
+        <animate attributeName="stroke" values="#334155;#38bdf8;#334155" dur="3.5s" begin="0.45s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="981" cy="226" r="18" fill="#0ea5e9"/>
+      <text x="981" y="231" text-anchor="middle" font-family="monospace" font-size="11" font-weight="900" fill="#fff">DB</text>
+      <text x="1010" y="232" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">SQL</text>
+      <animate attributeName="opacity" from="0" to="1" dur=".45s" begin="0.70s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur=".45s" begin="0.70s" fill="freeze"/>
+    </g>
+<g opacity="0" transform="translate(0 8)">
+      <rect x="55" y="275" width="206" height="62" rx="14" fill="#111827" stroke="#334155">
+        <animate attributeName="stroke" values="#334155;#38bdf8;#334155" dur="3.5s" begin="0.50s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="85" cy="306" r="18" fill="#DC382D"/>
+      <text x="85" y="311" text-anchor="middle" font-family="monospace" font-size="11" font-weight="900" fill="#fff">R</text>
+      <text x="114" y="312" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">Redis</text>
+      <animate attributeName="opacity" from="0" to="1" dur=".45s" begin="0.75s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur=".45s" begin="0.75s" fill="freeze"/>
+    </g>
+<g opacity="0" transform="translate(0 8)">
+      <rect x="279" y="275" width="206" height="62" rx="14" fill="#111827" stroke="#334155">
+        <animate attributeName="stroke" values="#334155;#38bdf8;#334155" dur="3.5s" begin="0.55s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="309" cy="306" r="18" fill="#2496ED"/>
+      <text x="309" y="311" text-anchor="middle" font-family="monospace" font-size="11" font-weight="900" fill="#fff">DK</text>
+      <text x="338" y="312" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">Docker</text>
+      <animate attributeName="opacity" from="0" to="1" dur=".45s" begin="0.80s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur=".45s" begin="0.80s" fill="freeze"/>
+    </g>
+<g opacity="0" transform="translate(0 8)">
+      <rect x="503" y="275" width="206" height="62" rx="14" fill="#111827" stroke="#334155">
+        <animate attributeName="stroke" values="#334155;#38bdf8;#334155" dur="3.5s" begin="0.60s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="533" cy="306" r="18" fill="#2088FF"/>
+      <text x="533" y="311" text-anchor="middle" font-family="monospace" font-size="11" font-weight="900" fill="#fff">GH</text>
+      <text x="562" y="312" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">GitHub Actions</text>
+      <animate attributeName="opacity" from="0" to="1" dur=".45s" begin="0.85s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur=".45s" begin="0.85s" fill="freeze"/>
+    </g>
+<g opacity="0" transform="translate(0 8)">
+      <rect x="727" y="275" width="206" height="62" rx="14" fill="#111827" stroke="#334155">
+        <animate attributeName="stroke" values="#334155;#38bdf8;#334155" dur="3.5s" begin="0.65s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="757" cy="306" r="18" fill="#10A37F"/>
+      <text x="757" y="311" text-anchor="middle" font-family="monospace" font-size="11" font-weight="900" fill="#fff">AI</text>
+      <text x="786" y="312" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">OpenAI</text>
+      <animate attributeName="opacity" from="0" to="1" dur=".45s" begin="0.90s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur=".45s" begin="0.90s" fill="freeze"/>
+    </g>
+<g opacity="0" transform="translate(0 8)">
+      <rect x="951" y="275" width="206" height="62" rx="14" fill="#111827" stroke="#334155">
+        <animate attributeName="stroke" values="#334155;#38bdf8;#334155" dur="3.5s" begin="0.70s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="981" cy="306" r="18" fill="#D97757"/>
+      <text x="981" y="311" text-anchor="middle" font-family="monospace" font-size="11" font-weight="900" fill="#fff">CL</text>
+      <text x="1010" y="312" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">Claude</text>
+      <animate attributeName="opacity" from="0" to="1" dur=".45s" begin="0.95s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur=".45s" begin="0.95s" fill="freeze"/>
+    </g>
+<g opacity="0" transform="translate(0 8)">
+      <rect x="55" y="355" width="206" height="62" rx="14" fill="#111827" stroke="#334155">
+        <animate attributeName="stroke" values="#334155;#38bdf8;#334155" dur="3.5s" begin="0.75s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="85" cy="386" r="18" fill="#7C3AED"/>
+      <text x="85" y="391" text-anchor="middle" font-family="monospace" font-size="11" font-weight="900" fill="#fff">LG</text>
+      <text x="114" y="392" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">LangGraph</text>
+      <animate attributeName="opacity" from="0" to="1" dur=".45s" begin="1.00s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur=".45s" begin="1.00s" fill="freeze"/>
+    </g>
+<g opacity="0" transform="translate(0 8)">
+      <rect x="279" y="355" width="206" height="62" rx="14" fill="#111827" stroke="#334155">
+        <animate attributeName="stroke" values="#334155;#38bdf8;#334155" dur="3.5s" begin="0.80s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="309" cy="386" r="18" fill="#13EF93"/>
+      <text x="309" y="391" text-anchor="middle" font-family="monospace" font-size="11" font-weight="900" fill="#fff">DG</text>
+      <text x="338" y="392" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">Deepgram</text>
+      <animate attributeName="opacity" from="0" to="1" dur=".45s" begin="1.05s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur=".45s" begin="1.05s" fill="freeze"/>
+    </g>
+<g opacity="0" transform="translate(0 8)">
+      <rect x="503" y="355" width="206" height="62" rx="14" fill="#111827" stroke="#334155">
+        <animate attributeName="stroke" values="#334155;#38bdf8;#334155" dur="3.5s" begin="0.85s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="533" cy="386" r="18" fill="#111827"/>
+      <text x="533" y="391" text-anchor="middle" font-family="monospace" font-size="11" font-weight="900" fill="#fff">11</text>
+      <text x="562" y="392" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">ElevenLabs</text>
+      <animate attributeName="opacity" from="0" to="1" dur=".45s" begin="1.10s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur=".45s" begin="1.10s" fill="freeze"/>
+    </g>
+<g opacity="0" transform="translate(0 8)">
+      <rect x="727" y="355" width="206" height="62" rx="14" fill="#111827" stroke="#334155">
+        <animate attributeName="stroke" values="#334155;#38bdf8;#334155" dur="3.5s" begin="0.90s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="757" cy="386" r="18" fill="#F22F46"/>
+      <text x="757" y="391" text-anchor="middle" font-family="monospace" font-size="11" font-weight="900" fill="#fff">TW</text>
+      <text x="786" y="392" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">Twilio</text>
+      <animate attributeName="opacity" from="0" to="1" dur=".45s" begin="1.15s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur=".45s" begin="1.15s" fill="freeze"/>
+    </g>
+<g opacity="0" transform="translate(0 8)">
+      <rect x="951" y="355" width="206" height="62" rx="14" fill="#111827" stroke="#334155">
+        <animate attributeName="stroke" values="#334155;#38bdf8;#334155" dur="3.5s" begin="0.95s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="981" cy="386" r="18" fill="#24C8DB"/>
+      <text x="981" y="391" text-anchor="middle" font-family="monospace" font-size="11" font-weight="900" fill="#fff">TA</text>
+      <text x="1010" y="392" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">Tauri</text>
+      <animate attributeName="opacity" from="0" to="1" dur=".45s" begin="1.20s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur=".45s" begin="1.20s" fill="freeze"/>
+    </g>
+</svg>
