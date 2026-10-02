@@ -1,90 +1,61 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=17">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=17">
-  <img alt="Animated developer banner for Gaurav Durgude" src="./banner.svg?v=17" width="100%">
-</picture>
-
-<br/>
-
-<img src="./dashboard.svg?v=17" width="100%" alt="Animated developer ID and education dashboard" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=gdurgude&label=PROFILE+VIEWS&style=for-the-badge&color=7c3aed" alt="profile views" />
+<img src="./assets/hero.svg" alt="Gaurav Durgude, AI engineer, full-stack engineer and pianist. Anime-style illustration with orange headphones over a night skyline." width="100%">
 
 </div>
 
-## `> whoami`
+<br>
 
-I’m **Gaurav Durgude**, a software engineer building AI products, backend systems, and real-time voice experiences. I like owning the full path from an idea to something reliable enough for a real user.
+<img src="./assets/about.svg" alt="Hi, I'm Gaurav. I'm an AI and full-stack engineer who turns rough ideas into software people can use. I also play piano, write my own melodies and teach others." width="100%">
 
-- 🎙️ Building **Lull AI**, a mood-aware voice agent with FastAPI, Deepgram, ElevenLabs, Claude, PostgreSQL and pgvector.
-- ☎️ Built real-time AI phone agents with Python, Flask, Twilio and LLM APIs.
-- 🧠 Interested in **voice AI, agents, backend infrastructure, developer tools and product engineering**.
-- 🎹 Outside software, I play piano and enjoy building things with a creative edge.
+<br>
 
-<div align="center">
-  <img src="./trophies.svg?v=17" width="100%" alt="Animated engineering trophies" />
-  <br/>
-  <img src="./stats.svg?v=17" width="49%" alt="Animated local GitHub stats" />
-  <img src="./langs.svg?v=17" width="49%" alt="Animated language bars" />
-</div>
+<img src="./assets/composing.svg" alt="Currently composing: AI agents, voice AI, backend systems and music." width="100%">
 
-## `> selected_projects`
+<br>
 
-| Project | What I built | Stack |
-|---|---|---|
-| [**ContentPlus AI**](https://github.com/gdurgude/ContentPlus-AI) | AI classification pipeline with prompt design, data flow design, and SQL optimization | Python, REST APIs, PostgreSQL, GitHub Actions |
-| [**Finz Accounting Pipeline**](https://github.com/gdurgude/finz-accounting-pipeline) | Accounting-data ingestion and processing pipeline | Python, APIs, data pipelines |
-| [**Loblaw Bio Cell Count**](https://github.com/gdurgude/loblaw-bio-cell-count) | Structured data pipeline and Streamlit analytics dashboard over 52K+ records | Python, SQLite, Streamlit |
-| [**Semantic Git Search**](https://github.com/gdurgude/Semantic-Git-Search) | Semantic search over code and repository context | Python, embeddings, search |
-| [**Voice Bot / PGAI**](https://github.com/gdurgude/voice-bot-pgai) | Real-time phone agent with decoupled conversation steps, authentication, and failure handling | Python, Flask, Twilio, Claude |
-| [**Job Board**](https://github.com/gdurgude/Job-Board) | Job platform build focused on full-stack workflows and user-facing functionality | React, TypeScript, backend integrations |
+<img src="./assets/experience.svg" alt="Experience: Research Software Engineer at Binghamton University since Feb 2026. Full-Stack Engineer at Elite Softwares, Pune, Aug 2021 to Apr 2023. QA and NLP intern at Oigetit.ai." width="100%">
 
-## `> experience`
+<br>
 
-<div align="center">
-  <img src="./experience.svg?v=17" width="100%" alt="Animated professional experience timeline" />
-</div>
+<img src="./assets/education.svg" alt="Education: M.S. Computer Science at SUNY Binghamton, 2023 to 2025. B.E. Computer Engineering at Savitribai Phule Pune University, 2019 to 2023." width="100%">
 
-## `> stack --verbose`
+<br>
 
-<div align="center">
-  <img src="./stack.svg?v=17" width="100%" alt="Animated tech stack with clockwise orbit icons" />
-</div>
+<img src="./assets/tracks.svg" alt="Featured projects: Lull, ContentPlus, AI Voice Bot and Aegis." width="100%">
 
-## `> contribution_activity`
+<br>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gdurgude&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
-</div>
+<img src="./assets/instruments.svg" alt="Tech stack: Python, TypeScript, React, FastAPI, Node.js, PostgreSQL, Redis, Docker, GitHub Actions, Claude API." width="100%">
 
-## `> snake --eat-contributions`
+<br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdurgude/gdurgude/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gdurgude/gdurgude/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/gdurgude/gdurgude/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<img src="./assets/livemix.svg" alt="Animated instruments: a spinning turntable, guitar strings, a drum and a synthesizer." width="100%">
 
-## `> connect`
+<br>
 
-<div align="center">
-  <img src="./connect.svg?v=17" width="100%" alt="Animated Let's Connect section" />
-  <br/><br/>
-  <a href="https://github.com/gdurgude"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0B1220" /></a>
-  <a href="mailto:gauravdurgude9@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0B1220" /></a>
-  <a href="https://www.linkedin.com/in/gaurav-durgude-b31198265/"><img src="https://img.shields.io/badge/LinkedIn-38bdf8?style=for-the-badge&logo=linkedin&logoColor=0B1220" /></a>
-  <a href="https://www.instagram.com/gauravvvvv.d/"><img src="https://img.shields.io/badge/Instagram-a78bfa?style=for-the-badge&logo=instagram&logoColor=0B1220" /></a>
-</div>
+<img src="./assets/pulse.svg" alt="GitHub Pulse" width="100%">
 
 <div align="center">
 
-### `KEEP CODING • KEEP GROWING`
-**Own the problem. Build with intent. Ship what matters.**
+<!-- Live stats: replace gdurgude below if your GitHub username differs -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gdurgude&show_icons=true&theme=transparent&hide_border=true&title_color=FB923C&icon_color=A78BFA&text_color=F8FAFC&bg_color=0B0F1C" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdurgude&layout=compact&theme=transparent&hide_border=true&title_color=FB923C&text_color=F8FAFC&bg_color=0B0F1C" alt="Top languages">
+
+<img src="https://ghchart.rshah.org/FB923C/gdurgude" alt="Contribution graph" width="95%">
 
 </div>
+
+<br>
+
+<img src="./assets/connect.svg" alt="Contact: GitHub, LinkedIn, email, San Ramon, CA." width="100%">
+
+<div align="center">
+
+[GitHub](https://github.com/gdurgude) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/gauravdurgude) &nbsp;|&nbsp; [Email](mailto:gauravdurgude9@gmail.com)
+
+</div>
+
+<br>
+
+<img src="./assets/footer.svg" alt="Now playing: Better systems. Brighter tomorrows. And a little more music in between." width="100%">
