@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./hero.svg?v=21" width="100%" alt="Gaurav Durgude, AI/ML software engineer. Agents, LLM apps, voice AI and full-stack development. Open to AI Agent, Full-Stack and AI/ML roles." />
+<img src="./hero.svg?v=22" width="100%" alt="Gaurav Durgude, AI/ML software engineer. Agents, LLM apps, voice AI and full-stack development. Open to AI Agent, Full-Stack and AI/ML roles." />
 
 <br/><br/>
 
-<img src="./about.svg?v=21" width="100%" alt="About Gaurav: an AI and full-stack engineer. 20+ production issues resolved, 50% faster issue resolution, a 52K+ record analytics pipeline, and 3 LLM providers used." />
+<img src="./about.svg?v=22" width="100%" alt="About Gaurav: an AI and full-stack engineer. 20+ production issues resolved, 50% faster issue resolution, a 52K+ record analytics pipeline, and 3 LLM providers used." />
 
 </div>
 
@@ -25,16 +25,16 @@ I'm an **AI/ML software engineer** who likes owning the whole path from a rough 
 
 <br/>
 
-<img src="./h-projects.svg?v=21" width="100%" alt="Featured Projects" />
+<img src="./h-projects.svg?v=22" width="100%" alt="Featured Projects" />
 
 <table>
 <tr>
-<td width="50%"><img src="./p-lull.svg?v=21" width="100%" alt="Lull: AI voice companion desktop app built with Tauri, React, Deepgram, ElevenLabs, Claude and pgvector." /></td>
-<td width="50%"><img src="./p-aegis.svg?v=21" width="100%" alt="Aegis: autonomous incident-response copilot with Next.js, evals and CI." /></td>
+<td width="50%"><a href="https://github.com/gdurgude/querypilot-agent"><img src="./p-querypilot.svg?v=22" width="100%" alt="QueryPilot: Streamlit chat agent with web search and LangGraph memory, built with Python, LangChain and Groq." /></a></td>
+<td width="50%"><a href="https://github.com/gdurgude/atlas-agent"><img src="./p-atlas.svg?v=22" width="100%" alt="Atlas Agent: multi-MCP data agent over PostgreSQL and a country API, with Pydantic validation, API-key auth and 6 passing tests." /></a></td>
 </tr>
 <tr>
-<td width="50%"><img src="./p-spendguard.svg?v=21" width="100%" alt="SpendGuard AI: invoice compliance agent with tool calling, Redis RQ and Next.js." /></td>
-<td width="50%"><a href="https://github.com/gdurgude/voice-bot-pgai"><img src="./p-voicebot.svg?v=21" width="100%" alt="AI Voice Bot: real-time phone assistant built with Python, Flask, Twilio and the Claude API." /></a></td>
+<td width="50%"><a href="https://github.com/gdurgude/voice-bot-pgai"><img src="./p-voicebot.svg?v=22" width="100%" alt="AI Voice Bot: calls a voice agent as a simulated patient across 12 scenarios, records each call and identifies bugs. Python, Flask, Twilio and the Claude API." /></a></td>
+<td width="50%"><a href="https://github.com/gdurgude/yapbuddy-chatbot"><img src="./p-yapbuddy.svg?v=22" width="100%" alt="YapBuddy: command-line chatbot built with Python, LangChain and the Google Gemini API." /></a></td>
 </tr>
 </table>
 
@@ -45,7 +45,9 @@ I'm an **AI/ML software engineer** who likes owning the whole path from a rough 
 
 | Project | What it does | Stack |
 |:--|:--|:--|
-| **QueryPilot Agent** | Conversational search agent that decides when to look something up on the web, then answers with that context. Handles API errors, token limits and session state. | Python, LangChain, LangGraph, Groq, Streamlit |
+| **Lull** | Mood-aware AI voice companion desktop app with speech in and out, pgvector memory and a proactive interaction engine. *In build.* | Tauri, React, Deepgram, ElevenLabs, Claude, pgvector |
+| **Aegis** | Autonomous incident-response copilot with an evaluation harness and CI/deployment configuration. *In build.* | Next.js, LLM agents, Evals |
+| **SpendGuard AI** | Invoice compliance agent: a bounded tool-calling orchestrator with background jobs and a review queue. *In build.* | Python, Redis/RQ, Next.js |
 | [**ContentPlus AI**](https://github.com/gdurgude/ContentPlus-AI) | AI classification pipeline: prompt design, data-flow design and SQL optimisation, exposed over REST. | Python, REST, PostgreSQL, GitHub Actions |
 | [**Finz Accounting Pipeline**](https://github.com/gdurgude/finz-accounting-pipeline) | Ingests and reconciles accounting data with a rule-based classifier and an LLM fallback, synced with QuickBooks Online over OAuth2. | FastAPI, MongoDB, Gemini |
 | [**Loblaw Bio Cell Count**](https://github.com/gdurgude/loblaw-bio-cell-count) | Structured data pipeline and analytics dashboard over 52K+ records. | Python, SQLite, Streamlit |
@@ -56,28 +58,28 @@ I'm an **AI/ML software engineer** who likes owning the whole path from a rough 
 
 <br/>
 
-<img src="./h-experience.svg?v=21" width="100%" alt="Experience and Education" />
+<img src="./h-experience.svg?v=22" width="100%" alt="Experience and Education" />
 
-<img src="./experience.svg?v=21" width="100%" alt="Experience: Research Software Engineer at Binghamton University since February 2026, resolving 20+ production issues. Full-Stack Engineer at Elite Softwares 2021 to 2023, cutting issue-resolution time by 50%. Education: M.S. Computer Science at SUNY Binghamton and B.E. Computer Engineering at Savitribai Phule Pune University." />
-
-<br/>
-
-<img src="./h-stack.svg?v=21" width="100%" alt="Tech Stack" />
-
-<img src="./stack.svg?v=21" width="100%" alt="Tech stack: Python, TypeScript, JavaScript, SQL, Java, C++; Claude, OpenAI, Gemini, LangChain, LangGraph, PyTorch, TensorFlow, scikit-learn, RAG, AI agents; FastAPI, Flask, Node.js, Express, REST APIs, React, Next.js, Tailwind; PostgreSQL, Redis, MySQL, SQLite, Docker, Kubernetes, GitHub Actions, Linux." />
+<img src="./experience.svg?v=22" width="100%" alt="Experience: Research Software Engineer at Binghamton University since February 2026, resolving 20+ production issues. Full-Stack Engineer at Elite Softwares 2021 to 2023, cutting issue-resolution time by 50%. Education: M.S. Computer Science at SUNY Binghamton and B.E. Computer Engineering at Savitribai Phule Pune University." />
 
 <br/>
 
-<img src="./h-connect.svg?v=21" width="100%" alt="Let's Connect" />
+<img src="./h-stack.svg?v=22" width="100%" alt="Tech Stack" />
 
-<img src="./connect.svg?v=21" width="100%" alt="Let's build something. Working on agents, voice AI or product-minded backends? Get in touch." />
+<img src="./stack.svg?v=22" width="100%" alt="Tech stack: Python, TypeScript, JavaScript, SQL, Java, C++; Claude, OpenAI, Gemini, LangChain, LangGraph, PyTorch, TensorFlow, scikit-learn, RAG, AI agents; FastAPI, Flask, Node.js, Express, REST APIs, React, Next.js, Tailwind; PostgreSQL, Redis, MySQL, SQLite, Docker, Kubernetes, GitHub Actions, Linux." />
+
+<br/>
+
+<img src="./h-connect.svg?v=22" width="100%" alt="Let's Connect" />
+
+<img src="./connect.svg?v=22" width="100%" alt="Let's build something. Working on agents, voice AI or product-minded backends? Get in touch." />
 
 <table>
 <tr>
-<td width="33%"><a href="mailto:gauravdurgude9@gmail.com"><img src="./c-email.svg?v=21" width="100%" alt="Email Gaurav at gauravdurgude9@gmail.com" /></a></td>
-<td width="33%"><a href="https://www.linkedin.com/in/gaurav-durgude-b31198265/"><img src="./c-linkedin.svg?v=21" width="100%" alt="Gaurav Durgude on LinkedIn" /></a></td>
-<td width="33%"><a href="https://github.com/gdurgude"><img src="./c-github.svg?v=21" width="100%" alt="Gaurav Durgude on GitHub" /></a></td>
+<td width="33%"><a href="mailto:gauravdurgude9@gmail.com"><img src="./c-email.svg?v=22" width="100%" alt="Email Gaurav at gauravdurgude9@gmail.com" /></a></td>
+<td width="33%"><a href="https://www.linkedin.com/in/gaurav-durgude-b31198265/"><img src="./c-linkedin.svg?v=22" width="100%" alt="Gaurav Durgude on LinkedIn" /></a></td>
+<td width="33%"><a href="https://github.com/gdurgude"><img src="./c-github.svg?v=22" width="100%" alt="Gaurav Durgude on GitHub" /></a></td>
 </tr>
 </table>
 
-<img src="./footer.svg?v=21" width="100%" alt="Own the problem. Build with intent. Ship what matters." />
+<img src="./footer.svg?v=22" width="100%" alt="Own the problem. Build with intent. Ship what matters." />

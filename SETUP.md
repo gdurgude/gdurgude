@@ -8,11 +8,11 @@ Every image in this README is a self-contained SVG in this folder. It needs no e
    `composing.svg`, `education.svg`, `instruments.svg`, `livemix.svg`, `pulse.svg`, `tracks.svg`, the old `hero.svg`,
    `connect.svg`, `experience.svg`, `stack.svg`, `footer.svg` (old versions are overwritten by the new ones),
    the extensionless `gdurgude` file and any old `SETUP.md`.
-3. Commit. If GitHub shows an old image, change `?v=21` to `?v=22` in `README.md`.
+3. Commit. If GitHub shows an old image, change `?v=22` to `?v=23` in `README.md`.
 
 ## Still to add
-- Your portfolio link (not in your resume text, so I left it out).
-- Repo links for Lull, Aegis, SpendGuard AI and QueryPilot once they are public: wrap the card in an `<a href>` like the Voice Bot card.
+- Your portfolio link (it is not in your resume text, so I left it out).
+- Repo links for Lull, Aegis and SpendGuard AI once they are public.
 
 ## Preview
 Open `preview.html` in any browser to see the whole page with every animation, before you push anything.
