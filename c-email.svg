@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="340" height="124" viewBox="0 0 340 124" role="img" aria-label="Email Gaurav at gauravdurgude9@gmail.com"><title>Email Gaurav at gauravdurgude9@gmail.com</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0f1f"/><stop offset=".55" stop-color="#120c26"/><stop offset="1" stop-color="#1c1038"/></linearGradient>
+<linearGradient id="frame" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".7"/><stop offset=".5" stop-color="#8b5cf6" stop-opacity=".5"/><stop offset="1" stop-color="#f472b6" stop-opacity=".7"/></linearGradient>
+<radialGradient id="orbA"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".42"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+<radialGradient id="orbB"><stop offset="0" stop-color="#22d3ee" stop-opacity=".28"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern>
+<clipPath id="card"><rect x="1" y="1" width="338" height="122" rx="18"/></clipPath>
+</defs>
+<rect width="340" height="124" rx="18" fill="url(#bg)"/>
+<g clip-path="url(#card)">
+<rect width="340" height="124" fill="url(#grid)"/>
+
+<defs><radialGradient id="g"><stop offset="0" stop-color="#22d3ee" stop-opacity=".55"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient></defs>
+<circle cx="56" cy="62" r="46" fill="url(#g)"><animate attributeName="opacity" values=".4;1;.4" dur="3s" repeatCount="indefinite"/></circle>
+<g transform="translate(26 32)"><rect width="60" height="60" rx="18" fill="#0b1327" stroke="#22d3ee" stroke-opacity=".8"/><g transform="translate(30 30)" fill="none" stroke="#22d3ee" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round" transform-origin="center"><rect x="-17" y="-12" width="34" height="24" rx="4"/><path d="M-16 -9L0 3 16 -9"><animate attributeName="d" values="M-16 -9L0 3 16 -9;M-16 -9L0 -4 16 -9;M-16 -9L0 3 16 -9" dur="2.4s" repeatCount="indefinite"/></path></g></g>
+<text x="106" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="700" fill="#22d3ee" letter-spacing="1.5">EMAIL</text><text x="106" y="78" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#f1f5f9" >gauravdurgude9@gmail.com</text>
+<g transform="translate(0 0)"><path d="M314 55l8 8-8 8" fill="none" stroke="#22d3ee" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><animateTransform attributeName="transform" type="translate" values="0 0;5 0;0 0" dur="1.6s" repeatCount="indefinite"/></path></g>
+</g>
+<rect x="1" y="1" width="338" height="122" rx="18" fill="none" stroke="url(#frame)" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="340" height="124" viewBox="0 0 340 124" role="img" aria-label="Gaurav Durgude on LinkedIn"><title>Gaurav Durgude on LinkedIn</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0f1f"/><stop offset=".55" stop-color="#120c26"/><stop offset="1" stop-color="#1c1038"/></linearGradient>
+<linearGradient id="frame" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".7"/><stop offset=".5" stop-color="#8b5cf6" stop-opacity=".5"/><stop offset="1" stop-color="#f472b6" stop-opacity=".7"/></linearGradient>
+<radialGradient id="orbA"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".42"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+<radialGradient id="orbB"><stop offset="0" stop-color="#22d3ee" stop-opacity=".28"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern>
+<clipPath id="card"><rect x="1" y="1" width="338" height="122" rx="18"/></clipPath>
+</defs>
+<rect width="340" height="124" rx="18" fill="url(#bg)"/>
+<g clip-path="url(#card)">
+<rect width="340" height="124" fill="url(#grid)"/>
+
+<defs><radialGradient id="g"><stop offset="0" stop-color="#38bdf8" stop-opacity=".55"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient></defs>
+<circle cx="56" cy="62" r="46" fill="url(#g)"><animate attributeName="opacity" values=".4;1;.4" dur="3.7s" repeatCount="indefinite"/></circle>
+<g transform="translate(26 32)"><rect width="60" height="60" rx="18" fill="#0b1327" stroke="#38bdf8" stroke-opacity=".8"/><g transform="translate(30 31)"><rect x="-17" y="-17" width="34" height="34" rx="7" fill="#38bdf8"/><text x="0" y="7.5" font-family="'Segoe UI',Inter,system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="800" fill="#0b1220" text-anchor="middle">in</text></g></g>
+<text x="106" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="700" fill="#38bdf8" letter-spacing="1.5">LINKEDIN</text><text x="106" y="78" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#f1f5f9" >in/gaurav-durgude</text>
+<g transform="translate(0 0)"><path d="M314 55l8 8-8 8" fill="none" stroke="#38bdf8" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><animateTransform attributeName="transform" type="translate" values="0 0;5 0;0 0" dur="1.6s" repeatCount="indefinite"/></path></g>
+</g>
+<rect x="1" y="1" width="338" height="122" rx="18" fill="none" stroke="url(#frame)" stroke-width="1.5"/>
+</svg>

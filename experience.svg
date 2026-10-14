@@ -1,71 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="790" viewBox="0 0 1180 790">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="690" viewBox="0 0 1000 690" role="img" aria-label="Experience: Research Software Engineer at Binghamton University since February 2026; Full-Stack Engineer at Elite Softwares 2021 to 2023. Education: M.S. Computer Science at SUNY Binghamton, B.E. Computer Engineering at Savitribai Phule Pune University."><title>Experience: Research Software Engineer at Binghamton University since February 2026; Full-Stack Engineer at Elite Softwares 2021 to 2023. Education: M.S. Computer Science at SUNY Binghamton, B.E. Computer Engineering at Savitribai Phule Pune University.</title>
 <defs>
-  <linearGradient id="ebg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#11162a"/></linearGradient>
-  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ec4899"/></linearGradient>
-  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#64748b" opacity=".1"/></pattern>
-  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0f1f"/><stop offset=".55" stop-color="#120c26"/><stop offset="1" stop-color="#1c1038"/></linearGradient>
+<linearGradient id="frame" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".7"/><stop offset=".5" stop-color="#8b5cf6" stop-opacity=".5"/><stop offset="1" stop-color="#f472b6" stop-opacity=".7"/></linearGradient>
+<radialGradient id="orbA"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".42"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+<radialGradient id="orbB"><stop offset="0" stop-color="#22d3ee" stop-opacity=".28"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern>
+<clipPath id="card"><rect x="1" y="1" width="998" height="688" rx="22"/></clipPath>
 </defs>
-<rect x="2" y="2" width="1176" height="786" rx="28" fill="url(#ebg)" stroke="#334155" stroke-width="2"/>
-<rect width="1180" height="790" fill="url(#dots)" rx="28"/>
-<text x="48" y="56" font-family="monospace" font-size="13" fill="#a78bfa" letter-spacing="2">// EXPERIENCE</text>
-<text x="48" y="93" font-family="Inter,Arial" font-size="30" font-weight="900" fill="#f8fafc">Professional Journey</text>
-<rect x="48" y="108" width="70" height="3" rx="2" fill="#38bdf8"/>
-<rect x="820" y="45" width="290" height="34" rx="17" fill="#0f2e2d" stroke="#166534"/><circle cx="840" cy="62" r="5" fill="#34d399"><animate attributeName="opacity" values=".2;1;.2" dur="1.5s" repeatCount="indefinite"/></circle><text x="857" y="67" font-family="monospace" font-size="12" fill="#6ee7b7">building reliable software</text>
-
-<!-- Timeline line -->
-<line x1="120" y1="160" x2="120" y2="722" stroke="#334155" stroke-width="3"/>
-<line x1="120" y1="160" x2="120" y2="265" stroke="#22d3ee" stroke-width="3"><animate attributeName="y2" values="160;722;160" dur="8s" repeatCount="indefinite"/></line>
-
-<!-- Binghamton -->
-<circle cx="120" cy="195" r="10" fill="#34d399" filter="url(#glow)"/>
-<text x="44" y="183" font-family="monospace" font-size="12" fill="#6ee7b7">FEB 2026</text><text x="68" y="202" font-family="monospace" font-size="12" fill="#6ee7b7">PRESENT</text>
-<g transform="translate(155 145)">
- <rect width="970" height="178" rx="20" fill="#111827" stroke="#334155"/>
- <rect x="0" y="0" width="6" height="178" rx="3" fill="#34d399" opacity=".75"/>
- <text x="28" y="38" font-family="Inter,Arial" font-size="21" font-weight="800" fill="#f8fafc">Research Software Engineer</text>
- <text x="28" y="63" font-family="Inter,Arial" font-size="15" font-weight="700" fill="#6ee7b7">Binghamton University</text>
- <text x="760" y="38" font-family="monospace" font-size="12" fill="#94a3b8">New York, USA</text>
- <g font-family="Inter,Arial" font-size="14" fill="#cbd5e1">
-  <circle cx="38" cy="92" r="4" fill="#34d399"/><text x="55" y="97">Develop scalable backend services and software modules using Python and TypeScript.</text>
-  <circle cx="38" cy="119" r="4" fill="#34d399"/><text x="55" y="124">Resolved 20+ production issues through systematic debugging and root-cause analysis.</text>
-  <circle cx="38" cy="146" r="4" fill="#34d399"/><text x="55" y="151">Contribute to architecture discussions, code reviews and application performance improvements.</text>
- </g>
- <rect x="-90" y="0" width="110" height="178" fill="#fff" opacity=".03" transform="skewX(-18)"><animate attributeName="x" values="-150;1060" dur="6.5s" repeatCount="indefinite"/></rect>
+<rect width="1000" height="690" rx="22" fill="url(#bg)"/>
+<g clip-path="url(#card)">
+<rect width="1000" height="690" fill="url(#grid)"/>
+<circle cx="120.0" cy="40" r="552.0" fill="url(#orbA)"><animate attributeName="cx" values="120.0;240.0;120.0" dur="14s" repeatCount="indefinite"/></circle><circle cx="900.0" cy="690" r="586.5" fill="url(#orbB)"><animate attributeName="cx" values="900.0;780.0;900.0" dur="16s" repeatCount="indefinite"/></circle>
+<defs><linearGradient id="rail" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#34d399"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<radialGradient id="dot"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient></defs>
+<rect x="148" y="58" width="4" height="520" rx="2" fill="url(#rail)" fill-opacity=".55"/>
+<circle cx="150" r="9" fill="url(#dot)"><animate attributeName="cy" values="58;578;58" dur="9s" repeatCount="indefinite"/></circle>
+<text x="26" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="700" fill="#34d399" >FEB 2026</text><text x="26" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="400" fill="#94a3b8" >PRESENT</text>
+<circle cx="150" cy="58" r="9" fill="none" stroke="#34d399"><animate attributeName="r" values="9;24" dur="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="2.2s" repeatCount="indefinite"/></circle><circle cx="150" cy="58" r="9" fill="#0a0f1f" stroke="#34d399" stroke-width="3"/><circle cx="150" cy="58" r="3.5" fill="#34d399"/>
+<rect x="190" y="24" width="780" height="222" rx="16" fill="#0b1327" fill-opacity=".85" stroke="#34d399" stroke-opacity=".4"/>
+<rect x="190" y="38" width="5" height="194" rx="2.5" fill="#34d399"/>
+<text x="216" y="60" font-family="'Segoe UI',Inter,system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="800" fill="#f8fafc" >Research Software Engineer</text><text x="216" y="84" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#34d399" >Binghamton University · New York, USA</text>
+<circle cx="222" cy="114" r="3.5" fill="#34d399"/><text x="238" y="118" font-family="'Segoe UI',Inter,system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#c7d0e4">Build backend services and features in <tspan fill="#34d399" font-weight="700">Python and TypeScript</tspan>, using AI-assisted workflows.</text><circle cx="222" cy="141" r="3.5" fill="#34d399"/><text x="238" y="145" font-family="'Segoe UI',Inter,system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#c7d0e4">Resolved <tspan fill="#34d399" font-weight="700">20+ production issues</tspan> by tracing failures across logic, APIs and data flows.</text><circle cx="222" cy="168" r="3.5" fill="#34d399"/><text x="238" y="172" font-family="'Segoe UI',Inter,system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#c7d0e4">Join architecture discussions and code reviews: API design, performance, maintainability.</text><circle cx="222" cy="195" r="3.5" fill="#34d399"/><text x="238" y="199" font-family="'Segoe UI',Inter,system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#c7d0e4">Build testable components and validate across dev workflows to catch defects early.</text><text x="26" y="296" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="700" fill="#8b5cf6" >AUG 2021</text><text x="26" y="316" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="400" fill="#94a3b8" >APR 2023</text>
+<circle cx="150" cy="300" r="9" fill="#0a0f1f" stroke="#8b5cf6" stroke-width="3"/><circle cx="150" cy="300" r="3.5" fill="#8b5cf6"/>
+<rect x="190" y="266" width="780" height="184" rx="16" fill="#0b1327" fill-opacity=".85" stroke="#8b5cf6" stroke-opacity=".4"/>
+<rect x="190" y="280" width="5" height="156" rx="2.5" fill="#8b5cf6"/>
+<text x="216" y="302" font-family="'Segoe UI',Inter,system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="800" fill="#f8fafc" >Full-Stack Engineer</text><text x="216" y="326" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#8b5cf6" >Elite Softwares · Pune, India</text>
+<circle cx="222" cy="356" r="3.5" fill="#8b5cf6"/><text x="238" y="360" font-family="'Segoe UI',Inter,system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#c7d0e4">Built and maintained <tspan fill="#8b5cf6" font-weight="700">REST APIs</tspan> and backend services in Python, Node.js and SQL.</text><circle cx="222" cy="383" r="3.5" fill="#8b5cf6"/><text x="238" y="387" font-family="'Segoe UI',Inter,system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#c7d0e4">Tuned <tspan fill="#8b5cf6" font-weight="700">PostgreSQL and SQLite</tspan> queries for data-heavy workflows to speed up responses.</text><circle cx="222" cy="410" r="3.5" fill="#8b5cf6"/><text x="238" y="414" font-family="'Segoe UI',Inter,system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#c7d0e4">Added logging and debugging workflows that <tspan fill="#8b5cf6" font-weight="700">cut issue-resolution time by 50%</tspan>.</text>
+<text x="26" y="540" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="700" fill="#22d3ee" >EDUCATION</text><text x="26" y="560" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="400" fill="#94a3b8" >2019 - 2025</text>
+<circle cx="150" cy="565" r="9" fill="#0a0f1f" stroke="#22d3ee" stroke-width="3"/><circle cx="150" cy="565" r="3.5" fill="#22d3ee"/>
+<rect x="190" y="490" width="380" height="150" rx="16" fill="#0b1327" fill-opacity=".85" stroke="#22d3ee" stroke-opacity=".4"/>
+<circle cx="240" cy="565" r="30" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee" stroke-opacity=".5"/><g transform="translate(240 565)"><path d="M0 -14L22 -4 0 6-22 -4Z" fill="#22d3ee" fill-opacity=".9"/><path d="M-12 2v9c6 5 18 5 24 0V2L0 8Z" fill="#22d3ee" fill-opacity=".55"/><path d="M22 -4v14" stroke="#22d3ee" stroke-width="2" stroke-linecap="round"><animate attributeName="stroke-opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></path></g>
+<text x="286" y="547" font-family="'Segoe UI',Inter,system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="19" font-weight="800" fill="#f8fafc" >M.S. Computer Science</text><text x="286" y="572" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600" fill="#22d3ee" >SUNY Binghamton</text><text x="286" y="596" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="400" fill="#94a3b8" >AUG 2023 - DEC 2025</text><rect x="590" y="490" width="380" height="150" rx="16" fill="#0b1327" fill-opacity=".85" stroke="#f472b6" stroke-opacity=".4"/>
+<circle cx="640" cy="565" r="30" fill="#f472b6" fill-opacity=".12" stroke="#f472b6" stroke-opacity=".5"/><g transform="translate(640 565)"><path d="M0 -14L22 -4 0 6-22 -4Z" fill="#f472b6" fill-opacity=".9"/><path d="M-12 2v9c6 5 18 5 24 0V2L0 8Z" fill="#f472b6" fill-opacity=".55"/><path d="M22 -4v14" stroke="#f472b6" stroke-width="2" stroke-linecap="round"><animate attributeName="stroke-opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></path></g>
+<text x="686" y="547" font-family="'Segoe UI',Inter,system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="19" font-weight="800" fill="#f8fafc" >B.E. Computer Engg.</text><text x="686" y="572" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600" fill="#f472b6" >Savitribai Phule Pune Univ.</text><text x="686" y="596" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="400" fill="#94a3b8" >AUG 2019 - MAY 2023</text>
 </g>
-
-<!-- Oigetit -->
-<circle cx="120" cy="400" r="10" fill="#22d3ee" filter="url(#glow)"/>
-<text x="47" y="387" font-family="monospace" font-size="12" fill="#67e8f9">AUG 2025</text><text x="47" y="406" font-family="monospace" font-size="12" fill="#67e8f9">NOV 2025</text>
-<g transform="translate(155 344)">
- <rect width="970" height="210" rx="20" fill="#111827" stroke="#334155"/>
- <rect x="0" y="0" width="6" height="210" rx="3" fill="#22d3ee" opacity=".8"/>
- <text x="28" y="38" font-family="Inter,Arial" font-size="21" font-weight="800" fill="#f8fafc">Software Engineer Intern</text>
- <text x="28" y="63" font-family="Inter,Arial" font-size="15" font-weight="700" fill="#67e8f9">Oigetit Real-Time AI Intelligence Platform</text>
- <text x="748" y="38" font-family="monospace" font-size="12" fill="#94a3b8">Menlo Park, California</text>
- <g font-family="Inter,Arial" font-size="14" fill="#cbd5e1">
-  <circle cx="38" cy="94" r="4" fill="#22d3ee"/><text x="55" y="99">Designed manual and automated test cases for React and TypeScript UI components.</text>
-  <circle cx="38" cy="122" r="4" fill="#22d3ee"/><text x="55" y="127">Partnered with development and product teams to debug front-end issues and improve stability.</text>
-  <circle cx="38" cy="150" r="4" fill="#22d3ee"/><text x="55" y="155">Built Playwright/Cypress automation for UI workflows, reducing repetitive manual testing.</text>
-  <circle cx="38" cy="178" r="4" fill="#22d3ee"/><text x="55" y="183">Wrote Python scripts to automate repetitive QA tasks and improve testing efficiency.</text>
- </g>
- <rect x="-90" y="0" width="110" height="210" fill="#fff" opacity=".03" transform="skewX(-18)"><animate attributeName="x" values="-150;1060" dur="7.2s" begin="1s" repeatCount="indefinite"/></rect>
-</g>
-
-<!-- Elite -->
-<circle cx="120" cy="628" r="10" fill="#a78bfa" filter="url(#glow)"/>
-<text x="47" y="615" font-family="monospace" font-size="12" fill="#c4b5fd">AUG 2021</text><text x="47" y="634" font-family="monospace" font-size="12" fill="#c4b5fd">APR 2023</text>
-<g transform="translate(155 575)">
- <rect width="970" height="164" rx="20" fill="#111827" stroke="#334155"/>
- <rect x="0" y="0" width="6" height="164" rx="3" fill="#8b5cf6" opacity=".8"/>
- <text x="28" y="38" font-family="Inter,Arial" font-size="21" font-weight="800" fill="#f8fafc">Full-Stack Engineer</text>
- <text x="28" y="63" font-family="Inter,Arial" font-size="15" font-weight="700" fill="#c4b5fd">Elite Softwares</text>
- <text x="830" y="38" font-family="monospace" font-size="12" fill="#94a3b8">Pune, India</text>
- <g font-family="Inter,Arial" font-size="14" fill="#cbd5e1">
-  <circle cx="38" cy="94" r="4" fill="#8b5cf6"/><text x="55" y="99">Built and optimized REST APIs and backend services with Python, Node.js and SQL.</text>
-  <circle cx="38" cy="122" r="4" fill="#8b5cf6"/><text x="55" y="127">Optimized PostgreSQL/SQLite queries for data-intensive applications and reporting workflows.</text>
-  <circle cx="38" cy="150" r="4" fill="#8b5cf6"/><text x="55" y="155">Improved debugging and logging workflows, cutting issue-resolution time by 50%.</text>
- </g>
- <rect x="-90" y="0" width="110" height="164" fill="#fff" opacity=".03" transform="skewX(-18)"><animate attributeName="x" values="-150;1060" dur="7.8s" begin="2s" repeatCount="indefinite"/></rect>
-</g>
-<rect x="45" y="760" width="1080" height="2" fill="url(#line)" opacity=".45"><animate attributeName="x" values="45;970;45" dur="8s" repeatCount="indefinite"/></rect>
+<rect x="1" y="1" width="998" height="688" rx="22" fill="none" stroke="url(#frame)" stroke-width="1.5"/>
 </svg>

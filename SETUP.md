@@ -1,19 +1,18 @@
 # Setup
 
-1. Upload `README.md`, `hero.svg` and `divider.svg` to the root of `gdurgude/gdurgude`, replacing the old README.
-2. Delete the old assets the new README no longer uses (see list below).
-3. Commit. If GitHub shows an old image, bump `?v=20` to `?v=21` in `README.md`.
+Every image in this README is a self-contained SVG in this folder. It needs no external badge, font or image service.
 
-## Still to fill in
-- Portfolio link: uncomment the Portfolio badge near the top of `README.md` and add your URL.
-- Repo links for **Lull**, **Aegis**, **SpendGuard AI** and **QueryPilot Agent** once those repos are public.
+1. Upload **all files in this folder** to the root of `gdurgude/gdurgude`, replacing the old README.
+2. Delete the old assets: `banner.svg`, `banner-light.svg`, `dashboard.svg`, `lanyard.svg`, `connect-final.png`,
+   `trophies.svg`, `stats.svg`, `langs.svg`, `contribution-activity.svg`, `snake-local.svg`, `about.svg` (old),
+   `composing.svg`, `education.svg`, `instruments.svg`, `livemix.svg`, `pulse.svg`, `tracks.svg`, the old `hero.svg`,
+   `connect.svg`, `experience.svg`, `stack.svg`, `footer.svg` (old versions are overwritten by the new ones),
+   the extensionless `gdurgude` file and any old `SETUP.md`.
+3. Commit. If GitHub shows an old image, change `?v=21` to `?v=22` in `README.md`.
 
-## Old files you can delete
-`banner.svg`, `banner-light.svg`, `dashboard.svg`, `lanyard.svg`, `connect.svg`, `connect-final.png`,
-`experience.svg`, `stack.svg`, `trophies.svg`, `stats.svg`, `langs.svg`, `contribution-activity.svg`,
-`snake-local.svg`, `about.svg`, `composing.svg`, `education.svg`, `hero.svg` (old; replaced),
-`instruments.svg`, `livemix.svg`, `pulse.svg`, `tracks.svg`, `footer.svg`, the extensionless `gdurgude` file, and the old `SETUP.md`.
+## Still to add
+- Your portfolio link (not in your resume text, so I left it out).
+- Repo links for Lull, Aegis, SpendGuard AI and QueryPilot once they are public: wrap the card in an `<a href>` like the Voice Bot card.
 
-## Notes
-- The GitHub stats and top-language cards are live (github-readme-stats). They occasionally rate-limit; a refresh fixes it.
-- The hero is dark in both light and dark GitHub themes, so there is no white flash at the top.
+## Preview
+Open `preview.html` in any browser to see the whole page with every animation, before you push anything.
