@@ -1,22 +1,19 @@
 # Setup
 
-1. Use the public GitHub profile repository `gdurgude/gdurgude`.
-2. Upload every file from this folder to the repository root, preserving `.github/workflows/github-snake.yml`.
-3. Commit the files.
-4. Open **Actions** and run the snake workflow once.
-5. If GitHub still shows an older SVG, change the README cache value from `?v=17` to `?v=18`.
+1. Upload `README.md`, `hero.svg` and `divider.svg` to the root of `gdurgude/gdurgude`, replacing the old README.
+2. Delete the old assets the new README no longer uses (see list below).
+3. Commit. If GitHub shows an old image, bump `?v=20` to `?v=21` in `README.md`.
 
-Final changes in this package:
-- The hero/background is dark in both GitHub light and dark themes, so there is no white first-section background.
-- The final Let's Connect section uses the approved pointing pose with no name/crown, plus subtle moving light/attention animation toward the contact cards.
-- Instagram uses `gauravvvvv.d`.
-- Project names are linked directly to your GitHub repositories.
+## Still to fill in
+- Portfolio link: uncomment the Portfolio badge near the top of `README.md` and add your URL.
+- Repo links for **Lull**, **Aegis**, **SpendGuard AI** and **QueryPilot Agent** once those repos are public.
 
+## Old files you can delete
+`banner.svg`, `banner-light.svg`, `dashboard.svg`, `lanyard.svg`, `connect.svg`, `connect-final.png`,
+`experience.svg`, `stack.svg`, `trophies.svg`, `stats.svg`, `langs.svg`, `contribution-activity.svg`,
+`snake-local.svg`, `about.svg`, `composing.svg`, `education.svg`, `hero.svg` (old; replaced),
+`instruments.svg`, `livemix.svg`, `pulse.svg`, `tracks.svg`, `footer.svg`, the extensionless `gdurgude` file, and the old `SETUP.md`.
 
-Notes:
-- `contribution-activity.svg` and `snake-local.svg` are local fallbacks so they are visible immediately on GitHub.
-- If you later prefer the live external graph/snake, I can switch them back.
-- `connect.svg` now includes a small animated pointing sticker.
-- `dashboard.svg` now uses a more animated character portrait on the ID card.
-
-- The final `connect.svg` cycles through three anime poses (wave → present → point) and adds a pulsing pointer beam toward the contact cards.
+## Notes
+- The GitHub stats and top-language cards are live (github-readme-stats). They occasionally rate-limit; a refresh fixes it.
+- The hero is dark in both light and dark GitHub themes, so there is no white flash at the top.

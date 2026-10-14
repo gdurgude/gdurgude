@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="10" viewBox="0 0 1000 10" role="presentation" aria-hidden="true">
+<defs>
+  <linearGradient id="l" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset=".3" stop-color="#22d3ee" stop-opacity=".55"/>
+    <stop offset=".6" stop-color="#8b5cf6" stop-opacity=".6"/><stop offset=".85" stop-color="#f472b6" stop-opacity=".55"/>
+    <stop offset="1" stop-color="#f472b6" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="spark"><stop offset="0" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="0" y="4.5" width="1000" height="1" fill="url(#l)"/>
+<circle cy="5" r="5" fill="url(#spark)">
+  <animate attributeName="cx" values="60;940" dur="5.5s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.85;1" dur="5.5s" repeatCount="indefinite"/>
+</circle>
+</svg>
